@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Tip calculator app
 
 ![Design preview for the Tip calculator app coding challenge](./design/desktop-preview.jpg)
@@ -91,3 +92,6 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# Tip-Calculator-App
+>>>>>>> 0281d0a1feda571b09151175d81e07f70f0bce81
